@@ -1,82 +1,101 @@
-# Hi, I'm Lathika 👋
+<div align="center">
 
-### AI Engineer | GenAI Developer | Software Engineer
+# 👋 Hi, I'm Latzz
 
-Building AI systems using LLMs, RAG pipelines, NLP, Deep Learning, and scalable backend architectures.
+### AI Engineer | Python Developer | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Python+Developer;Machine+Learning+Explorer;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* Passionate about AI, GenAI, and intelligent system design
-* Building real-world projects using FastAPI, LangChain, TensorFlow, and Docker
-* Interested in Agentic AI, RAG systems, Deep Learning, and AI Infrastructure
-* Exploring scalable backend engineering and deployment workflows
+<table>
+<tr>
+
+<td width="55%">
+
+- 🎓 B.Tech Information Technology
+- 🐍 Strong focus on Python & AI
+- 🧠 Interested in Machine Learning & Deep Learning
+- 📊 Building real-world intelligent systems
+- 🌱 Currently learning advanced AI architectures
+- 🔭 Working on impactful project development
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=senthurbalaji&show_icons=true&theme=tokyonight" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,mysql" />
+</p>
 
 ### AI / ML
 
-Python • TensorFlow • PyTorch • Transformers • NLP • spaCy • scikit-learn • OpenCV
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### GenAI
+### Tools & Platforms
 
-LangChain • RAG Pipelines • ChromaDB • FAISS • Ollama • Gemini API
-
-### Backend & Deployment
-
-FastAPI • Flask • Docker • REST APIs • Firebase • Hugging Face Spaces
-
-### Languages & Tools
-
-Python • Java • SQL • Git • GitHub • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Analytics
 
-### 🏥 MediQuery — LLM RAG Healthcare Assistant
+<p align="center">
 
-* Built healthcare RAG pipeline using LangChain + Llama 3 + ChromaDB
-* Reduced hallucinations by ~45%
-* FastAPI + Docker deployment
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
-### 🌍 HeadsUp — AI Disaster Intelligence System
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
-* CNN + LSTM-based disaster intelligence platform
-* Satellite image classification and forecasting system
-
-### 🧬 Quantum ML Breast Cancer Diagnostics
-
-* Qiskit-based variational quantum circuit models
-* Improved accuracy over classical ML baselines
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus
 
-![Lathika's GitHub stats](https://github-readme-stats.vercel.app/api?username=lathika1221\&show_icons=true\&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-* 📧 Email: [lathikasasimanikandan@gmail.com](mailto:lathikasasimanikandan@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/lathika-manikandan-422539299
-* 💻 GitHub: https://github.com/lathika1221
+| Area | Status |
+|--------|--------|
+| Python Development | 🟢 |
+| Machine Learning | 🟢 |
+| Deep Learning | 🟢 |
+| System Design | 🟡 |
+| Open Source | 🟡 |
 
 ---
 
-## ⚡ Currently Exploring
+## 🚀 Featured Projects
 
-* Agentic AI Systems
-* Multi-Agent Workflows
-* AI Infrastructure
-* Scalable GenAI Architectures
+### 🚚 AI Driven Supply Chain Optimization
+Real-time tracking, demand forecasting, and route optimization.
+
+### 🔋 RE-BATT
+Battery lifecycle monitoring and circular economy analytics.
+
+### 🧠 Quantum Medical AI
+Research-focused intelligent healthcare solutions.
 
 ---
 
-⭐ Building. Learning. Shipping.
+
+
 
