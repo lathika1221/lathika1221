@@ -28,7 +28,7 @@
 
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senthurbalaji&show_icons=true&theme=tokyonight" />
+<img src="<img src="https://github-readme-stats.vercel.app/apiusername=lathika1221&show_icons=true&theme=tokyonight&hide_border=true" />" />
 
 </td>
 
