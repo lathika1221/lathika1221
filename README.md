@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-<p align="center">
+<p align="center" >
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lathika1221&theme=nord_dark" />
 </p>
 
@@ -48,7 +48,7 @@
 
 
 <tr>
-<td align="center"  width="100%">
+<td align="center" style="background-color:#0D1117;">
 
 <h3>🚚 Supply Chain AI</h3>
 
@@ -65,7 +65,7 @@ AI-powered demand forecasting, route optimization and real-time tracking system.
 
 <tr>
 <tr>
-<td align="center" width="100%">
+<td align="center" style="background-color:#0D1117;">
 
 <h3>🔋 RE-BATT</h3>
 
@@ -81,7 +81,7 @@ Smart battery lifecycle monitoring and circular economy analytics platform.
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" style="background-color:#0D1117;">
 
 <h3>🧠 Quantum Medical AI</h3>
 
